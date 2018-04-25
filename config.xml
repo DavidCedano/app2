@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.phonegap.app2david" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>PhoneGap-David</name>
+    <description>
+        Aplicacion que describe el funcionamiento de PhoneGap
+    </description>
+    <author email="support@david.com">
+       David Cedano
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+
+    <icon src="img/ic_launcher_round_1.png" gap:density="ldpi" gap:platform="android" />
+	<icon src="img/ic_launcher_round_2.png" gap:density="mdpi" gap:platform="android" />
+	<icon src="img/ic_launcher_round_3.png" gap:density="hdpi" gap:platform="android" />
+	<icon src="img/ic_launcher_round_4.png" gap:density="xhdpi" gap:platform="android" />
+
+</widget>
